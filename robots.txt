@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://jardinopolis.opolo.com.br/sitemap.xml
+Sitemap: https://emplacamentosrp.opolo.com.br/sitemap.xml
